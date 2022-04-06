@@ -1,0 +1,9 @@
+.user-card {
+    height: 12rem;
+     /* border: 2px solid red;  */
+     box-shadow: 5px 5px 10px  silver; 
+} 
+.card--custom {
+    box-shadow: 5px 5px 10px silver;
+    margin-right: 2em;
+  }
